@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
-Git is good thing.
+Git is a free software.
+Git is a good thing.
 Git is nice.
 Creating a new branch is quick and simple.
